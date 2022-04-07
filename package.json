@@ -1,0 +1,8 @@
+{
+  "name": "esbuild-runner-monorepo-repro",
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "~0.14.34",
+    "esbuild-runner": "~2.2.1"
+  }
+}

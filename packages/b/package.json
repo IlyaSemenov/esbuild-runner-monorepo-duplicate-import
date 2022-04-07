@@ -1,0 +1,10 @@
+{
+  "name": "@test/b",
+  "private": true,
+  "scripts": {
+    "test": "esr index.ts"
+  },
+  "dependencies": {
+    "@test/a": "workspace:*"
+  }
+}
